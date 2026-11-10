@@ -1,0 +1,138 @@
+.nav1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+
+.ss1{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    list-style: none;
+    margin-left: 150px;
+}
+
+
+.marg{
+    margin: 0 auto;
+    width: 1296px;
+}
+.line1{
+    border-bottom: 1px solid #444444;
+    width: 10%;
+    margin-right: 140px;
+    margin-top: 20px;
+    
+
+}
+
+.poisk1{
+    margin-left: 100px
+}
+
+
+
+.str1{
+    color: blue;
+    padding-right: 100px;
+    margin-left: 5px;
+}
+
+body{
+    margin: 0 auto;
+    max-width: 1920px;
+
+}
+
+.d1{
+    position: relative;
+    display: inline-block;
+}
+
+.photo1{
+    display: block;
+    width: 100%;
+}
+.port1{
+    position: absolute; 
+    top: 25%;
+    left: 300px;
+    color: white;
+    font-size: 50px;
+    margin: 0;
+    line-height: 1.5;
+}
+
+
+.port2{
+    position: absolute; 
+    top: 50%;
+    left: 300px;
+    color: rgba(255, 255, 255, 0.904);
+    font-size: 15px;
+    margin: 0;
+    line-height: 1.5;
+}
+.port3{
+    position: absolute; 
+    top: 65%;
+    left: 300px;
+    color: rgba(255, 255, 255, 0.904);
+    font-size: 20px;
+    margin: 0;
+    line-height: 1.5;
+}
+.d1{
+
+
+    position: relative;
+    margin-bottom: 100px;
+}
+.photo2{
+
+    position: absolute; 
+    top: 65%;
+    left: 450px;
+    color: rgba(255, 255, 255, 0.904);
+    font-size: 20px;
+    margin: 0;
+    line-height: 1.5;
+}
+.frame1{
+    position: absolute;
+    top: 16%;
+    left: 972px;
+}
+.frame2{
+    position: absolute;
+    top: 16%;
+    left: 1300px;
+}
+.frame3{
+    position: absolute;
+    top: 52.5%;
+    left: 972px;
+}
+.frame4{
+    position: absolute;
+    top: 52.5%;
+    left: 1300px;
+}
+
+.d2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 24px;
+    width: 856px;
+    height: 717px;
+}
+
